@@ -12,17 +12,14 @@ A web app that lets you upload documents, manage them in a dashboard, and chat w
 - **Responsive UI** - Works on desktop and mobile
 
 ## Screenshots
-
-| Homepage 
+| Homepage | Dashboard | Document Chat |
 |----------|-----------|---------------|
-(https://github.com/user-attachments/assets/6ecd08e6-7a47-4008-b214-2c4bc04d1f8e)
+| ![Home](![Screenshot (95)](https://github.com/user-attachments/assets/9f5182fc-941a-46be-9b80-7135cdffa41c)
+) | ![Dashboard](![Screenshot (96)](https://github.com/user-attachments/assets/b1a8c273-3f02-44f8-b8c6-787c92b811ea)
+) | ![Chat](![Screenshot (97)](https://github.com/user-attachments/assets/8d0b57a0-0240-4b5d-bd4a-24ba15e15977)
+) |
 
-| Dashboard |
-(https://github.com/user-attachments/assets/8646fc1d-712d-4b6f-8480-425b163065b5)
 
-| Document Chat |
-(https://github.com/user-attachments/assets/edad050c-58f6-4602-92a4-e5c7711f4d96)
-)
 
 ## Tech Stack
 - **Frontend**: React.js + Tailwind CSS
