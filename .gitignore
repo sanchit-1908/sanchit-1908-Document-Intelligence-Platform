@@ -1,0 +1,74 @@
+# === Python / Django ===
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.so
+
+# Django specific
+*.secret
+*.env
+.env
+.env.*
+db.sqlite3
+media/
+media/*
+staticfiles/
+static/
+local_settings.py
+
+# Migrations (optional, if you don’t want to version control them)
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+*/migrations/*.py~
+
+# Ignore model files
+*.gguf
+*.bin
+*.pth
+*.pt
+
+# Virtual environment
+venv/
+
+# === Node / React ===
+node_modules/
+dist/
+build/
+.vite/
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === OS / Editor Junk ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# === Git ===
+*.orig
+
+# === Backup or temp files ===
+*.bak
+*.tmp
+*.temp
+
+# Large model files
+Backend/Models/*.gguf
